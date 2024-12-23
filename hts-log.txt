@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 23 Dec 2024 20:30:54 at https://images9.icusocial.com/category/model/#goog_rewarded +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://images9.icusocial.com/category/model/#goog_rewarded -O1 "E:\bloggerTemp\ImageWebTemplate" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:31:07	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/robots.txt (from primary/primary)
+20:31:07	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link primary/goog_rewarded (from primary/primary)
+20:31:11	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link primary/goog_rewarded (from primary/primary)
+20:31:13	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/goog_rewarded (from primary/primary)
+
+HTTrack Website Copier/3.49-2 mirror complete in 19 seconds : 21 links scanned, 16 files written (1216949 bytes overall) [618875 bytes received at 32572 bytes/sec], 872943 bytes transferred using HTTP compression in 11 files, ratio 29%, 3.4 requests per connection
+(2 errors, 2 warnings, 0 messages)
